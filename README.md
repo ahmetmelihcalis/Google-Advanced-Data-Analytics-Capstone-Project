@@ -50,18 +50,18 @@ Based on the analysis, the following recommendations are proposed for Salifort M
 
 1.  **Implement a Proactive Alert System:** Use this model to flag at-risk employees. This allows HR to initiate confidential "stay interviews" to address concerns before an employee decides to resign.
 2.  **Target the High-Risk Tenure Window:** Develop specific career pathing, mentorship, and engagement programs for employees with 3-5 years of service.
-3.  **Conduct Workload and Role Audits:** For flagged employees, especially the "frustrated superstars," managers should review workloads and role responsibilities to prevent burnout and ensure proper recognition.
+3.  **Conduct Workload and Role Audits:** For flagged employees, especially the "frustrated stars," managers should review workloads and role responsibilities to prevent burnout and ensure proper recognition.
 4.  **Empower Managers with Data:** Equip managers with insights about their teams' satisfaction levels to foster a more supportive and responsive work environment.
 
 ## 6. How to Run This Project
 
 1.  Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/hr-analytics-capstone.git
+    git clone https://github.com/YOUR_USERNAME/Google-Advanced-Data-Analytics-Capstone-Project.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd hr-analytics-capstone
+    cd Google-Advanced-Data-Analytics-Capstone-Project
     ```
 3.  Create and activate a virtual environment:
     ```bash
